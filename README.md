@@ -3,7 +3,8 @@
 - Student ID: 1171367
 
 ## README example
-**rRequirements**
+**Requirements:**
+
 absl-py==1.2.0
 appnope==0.1.3
 asttokens==2.0.8
