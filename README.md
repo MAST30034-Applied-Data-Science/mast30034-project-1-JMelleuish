@@ -120,4 +120,4 @@ To run the pipeline, run the following files in order:
 1. `(taxi) preprocessing.ipynb`: This downloads the raw data into the `data/raw` directory and details all the preprocessing steps for the taxi dataset. finally producing the 'taxi' folder in `data/curated`.
 2. `(Weather) preprocessing.ipynb`: This downloads the raw data into the `data/raw` directory and details all the preprocessing steps for the weather dataset. finally producing the 'weather.parquet' in `data/curated`.
 3. `Analysis.ipynb`: This notebook outputs the combined dataset and is used to conduct analysis on the curated data.
-4. `Statistical_Modelling.ipynb`: This notebook is used for creating and discussing the 3 modelled used to preict taxi tip amounts.
+4. `Statistical_Modelling.ipynb`: This notebook is used for creating and discussing the 3 modelled used to predict taxi tip amounts.
